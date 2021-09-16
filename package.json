@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4n5h/deep-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "deep",
+    "recursive"
+  ],
   "author": "Daniel Shlomo",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4n5h/deep-proxy/issues"
+  },
+  "homepage": "https://github.com/d4n5h/deep-proxy#readme"
 }
