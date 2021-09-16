@@ -1,6 +1,9 @@
 # deep-proxy
 Deep recursive proxy object
 
+## Install:
+```$ npm install @danisl99/deep-proxy```
+
 ## Example:
 ```javascript
 const DeepProxy = require("@danisl99/deep-proxy");
